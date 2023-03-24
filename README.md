@@ -16,9 +16,6 @@
 
 <h2>Como utilizar</h2>
 
-    Clone esse repositório
-    $ git clone https://github.com/rafaasimi/Dogs-Origamid.git
-
     Instalar dependências
     $ npm install
 
